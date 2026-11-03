@@ -44,5 +44,7 @@ A Streamlit-based web application powered by a custom ResNet50 model to detect a
    streamlit run app.py
 
 📸 Screenshots
-Front Crushed Detection
-![app](app_screenshot.jpg.png)
+
+| Front Crushed Detection |
+| :---: |
+| ![Front Crushed Detection](streamlit-app/app_screenshot.jpg.png) |
